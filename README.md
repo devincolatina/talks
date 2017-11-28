@@ -5,7 +5,7 @@ A ideia aqui é reunicar as apresentações, eventos, meetups, e afins promovido
  * Testes de interfaces com Cypress - Paulo Henrique Araujo
 	* [Apresentação](http://slides.com/paulohenrique-8/testes-de-interfaces-web-com-cypress)
  * Progressive Web Apps - Luiz Venturote
-	* Apresentação
+	* [Apresentação](https://speakerdeck.com/luizventurote/progressive-web-apps-and-magento-2-meet-magento-brazil)
  * Desafios para se tornar um Dev Magento - Caian Monteiro
 	* [Apresentação](http://prezi.com/eth0xbcobenz/?utm_campaign=share&utm_medium=copy)
  * Desenvolvimento Web com Laravel - Edilson Cichon
