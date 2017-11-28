@@ -7,7 +7,7 @@ A ideia aqui é reunicar as apresentações, eventos, meetups, e afins promovido
  * Progressive Web Apps - Luiz Venturote
 	* Apresentação
  * Desafios para se tornar um Dev Magento - Caian Monteiro
-	* Apresentação
+	* [Apresentação](http://prezi.com/eth0xbcobenz/?utm_campaign=share&utm_medium=copy)
  * Desenvolvimento Web com Laravel - Edilson Cichon
 	* [Apresentação](https://docs.google.com/presentation/d/1ydOTysY16J6zPqcwX4egGwibjc8VkC46LKk4o-awwwA/edit?usp=sharing)
 
