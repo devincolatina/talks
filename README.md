@@ -13,10 +13,10 @@ A ideia aqui é reunicar as apresentações, eventos, meetups, e afins promovido
 
 ### 24/12/2017 - Meetup a definir - Online
  * ??? - Paulo Henrique Araujo
-	* [Apresentação](http://slides.com/paulohenrique-8/testes-de-interfaces-web-com-cypress)
+	* [Apresentação]()
  * ??? - Luiz Venturote
-	* [Apresentação](https://speakerdeck.com/luizventurote/progressive-web-apps-and-magento-2-meet-magento-brazil)
+	* [Apresentação]()
  * ??? - Caian Monteiro
-	* [Apresentação](http://prezi.com/eth0xbcobenz/?utm_campaign=share&utm_medium=copy)
+	* [Apresentação]()
  * Graphql, como isso pode me ajudar? - Edilson Cichon
 	* [Apresentação]()
