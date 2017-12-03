@@ -1,5 +1,5 @@
 # Talks
-A ideia aqui é reunicar as apresentações, eventos, meetups, e afins promovidos pelo DevInCol.
+A ideia aqui é reunir as apresentações, eventos, meetups, e afins promovidos pelo DevInCol.
 
 ### 25/11/2017 - Meetup DevCol - Colatina/ES - IFES Campus Colatina
  * Testes de interfaces com Cypress - Paulo Henrique Araujo
