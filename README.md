@@ -6,8 +6,8 @@ A ideia aqui é reunir as apresentações, eventos, meetups, e afins promovidos 
 	* [Apresentação](https://docs.google.com/presentation/d/1BCricaiwO_BAE3IDFph6l1EANg_mzIWx1E8pNHEMJx8/edit?usp=sharing)
  * Trabalho Remoto - Luiz Venturote
 	* [Apresentação]()
- * API - Paulo Henrique Araujo
-	* [Apresentação]()
+ * Trabalhando com APIs - Paulo Henrique Araujo
+	* [Apresentação](http://slides.com/paulohenrique-8/apis)
 	
 ### 25/11/2017 - 1º Meetup DevInCol - Colatina/ES - IFES Campus Colatina
  * Testes de interfaces com Cypress - Paulo Henrique Araujo
