@@ -1,17 +1,15 @@
 # Talks
 A ideia aqui é reunir as apresentações, eventos, meetups, e afins promovidos pelo DevInCol.
 
-### 02/03/2018 - Local/Horário a definir
- * ??? - Caian Monteiro
+### 09/03/2018 - 2º Meetup DevInCol - Colatina/ES - IFES Campus Colatina
+ * AWS, além do básico - Edilson Cichon
+	* [Apresentação](https://docs.google.com/presentation/d/1BCricaiwO_BAE3IDFph6l1EANg_mzIWx1E8pNHEMJx8/edit?usp=sharing)
+ * Trabalho Remoto - Luiz Venturote
 	* [Apresentação]()
- * AWS - Além da cloud - Edilson Cichon
-	* [Apresentação]()
- * ??? - Luiz Venturote
-	* [Apresentação]()
- * ??? - Paulo Henrique Araujo
+ * API - Paulo Henrique Araujo
 	* [Apresentação]()
 	
-### 25/11/2017 - Meetup DevCol - Colatina/ES - IFES Campus Colatina
+### 25/11/2017 - 1º Meetup DevInCol - Colatina/ES - IFES Campus Colatina
  * Testes de interfaces com Cypress - Paulo Henrique Araujo
 	* [Apresentação](http://slides.com/paulohenrique-8/testes-de-interfaces-web-com-cypress)
  * Progressive Web Apps - Luiz Venturote
