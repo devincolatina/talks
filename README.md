@@ -1,6 +1,12 @@
 # Talks
 A ideia aqui é reunir as apresentações, eventos, meetups, e afins promovidos pelo DevInCol.
 
+### 05/09/2018 - 4º Meetup DevInCol - Colatina/ES - IFES Campus Colatina
+ * A importância de Frameworks JavaScript - Edilson Cichon
+	* [Apresentação](https://docs.google.com/presentation/d/1w_23_x30gs1ozj1OI3nshdREhkEQt3tVnU5awfyWqmM/edit?usp=sharing)
+ * Controle de Verso com Git - Luiz Venturote
+	* [Apresentação]()
+
 ### 29/06/2018 - 3º Meetup DevInCol - Colatina/ES - IFES Campus Colatina
  * Delphi e sua Evolução - Nicolas Marques Paulino
 	* [Apresentação](https://drive.google.com/open?id=1CcUC17XixpNFjCkotNJmWkopu4JSbwaI)
