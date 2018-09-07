@@ -5,7 +5,7 @@ A ideia aqui é reunir as apresentações, eventos, meetups, e afins promovidos 
  * A importância de Frameworks JavaScript - Edilson Cichon
 	* [Apresentação](https://docs.google.com/presentation/d/1w_23_x30gs1ozj1OI3nshdREhkEQt3tVnU5awfyWqmM/edit?usp=sharing)
  * Controle de Verso com Git - Luiz Venturote
-	* [Apresentação]()
+	* [Apresentação](https://drive.google.com/open?id=1FMEvv-C5NXMtAjo9SQAOoRBe4ipvh0MJ)
 
 ### 29/06/2018 - 3º Meetup DevInCol - Colatina/ES - IFES Campus Colatina
  * Delphi e sua Evolução - Nicolas Marques Paulino
